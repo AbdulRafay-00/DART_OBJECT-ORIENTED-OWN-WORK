@@ -1,0 +1,4 @@
+STUDENTNAME     FATHERNAME  ROLLNO      PER    
+StudentName:Abdul rafay     FatherName:Muhammad Akram Khan   rollno:1   per:81.81818181818183    
+StudentName:Abdul Ghani     FatherName:Muhammad ASLAM Khan   rollno:5   per:72.72727272727273   
+StudentName:Abdul Wasay     FatherName:Muhammad Akram Khan   rollno:10   per:90.9090909090909   
